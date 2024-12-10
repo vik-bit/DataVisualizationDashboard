@@ -14,7 +14,7 @@
 
 To get started with the Data Visualization Dashboard:
 
-1. Clone this repository: `git clone https://github.com/vik-bit/DataVisualizationBlackCoffer.git`
+1. Clone this repository: `git clone https://github.com/vik-bit/DataVisualizationDashboard.git`
 2. Navigate to the project directory: `cd Visualization-Dashboard`
 3. Install dependencies:
    - Backend: `cd server && npm install`
