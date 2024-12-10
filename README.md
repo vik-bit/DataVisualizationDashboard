@@ -1,5 +1,5 @@
-# DataVisualizationBlackCoffer
-Assignment Solution for Software Intern Position
+# DataVisualizationDashboard
+
 
 
 ## Tech Stacks
@@ -12,10 +12,10 @@ Assignment Solution for Software Intern Position
 
 ## Installation
 
-To get started with the BlackCoffer Visualization Dashboard:
+To get started with the Data Visualization Dashboard:
 
 1. Clone this repository: `git clone https://github.com/vik-bit/DataVisualizationBlackCoffer.git`
-2. Navigate to the project directory: `cd BlackCoffer-Visualization-Dashboard`
+2. Navigate to the project directory: `cd Visualization-Dashboard`
 3. Install dependencies:
    - Backend: `cd server && npm install`
    - Frontend: `cd client && npm install`
